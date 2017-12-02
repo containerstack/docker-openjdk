@@ -1,2 +1,1 @@
 # openjdk
-testing
